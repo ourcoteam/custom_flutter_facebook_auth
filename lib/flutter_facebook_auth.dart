@@ -1,7 +1,7 @@
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter/material.dart';
-import 'package:flutter_facebook_auth_platform_interface/flutter_facebook_auth_platform_interface.dart';
-export 'package:flutter_facebook_auth_platform_interface/flutter_facebook_auth_platform_interface.dart'
+import 'flutter_facebook_auth_platform_interface.dart';
+export 'flutter_facebook_auth_platform_interface.dart'
     show
         AccessToken,
         LoginResult,

@@ -9,8 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_facebook_auth_platform_interface:
-    path: ../facebook_auth_platform_interface
+  plugin_platform_interface: ^1.0.3
 
 dev_dependencies:
   flutter_test:
